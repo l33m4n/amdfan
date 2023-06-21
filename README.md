@@ -204,7 +204,7 @@ poetry run amdfan --help
 Requires [poetry](https://python-poetry.org/) to be installed
 
 ``` bash
-git clone git@github.com:mcgillij/amdfan.git
+git clone https://github.com/l33m4n/amdfan.git
 cd amdfan/
 poetry build
 ```
